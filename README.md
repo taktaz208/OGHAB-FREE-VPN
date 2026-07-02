@@ -7,4 +7,4 @@
 ## 📥 دانلود
 
 ### آخرین نسخه
-**[⬇️ دانلود اُقاب وی‌پی‌ان (EXE)](https://github.com/taktaz208/OGHAB-FREE-VPN/releases/latest/download/OGHAB_VPN.exe)**
+**[⬇️ دانلود عقاب وی‌پی‌ان (EXE)](https://github.com/taktaz208/OGHAB-FREE-VPN/releases/latest/download/OGHAB_VPN.exe)**
