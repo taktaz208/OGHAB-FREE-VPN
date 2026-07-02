@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="logo.png" alt="OGHAB VPN Logo" width="512">
+</div>
 
 ## 📥 Download
 
