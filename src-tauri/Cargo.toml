@@ -1,0 +1,33 @@
+[package]
+name = "oghab-vpn"
+version = "0.1.0"
+description = "OGHAB VPN"
+authors = ["taktaz208"]
+edition = "2021"
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[lib]
+name = "oghab_vpn"
+path = "src/main.rs"
+crate-type = ["cdylib", "staticlib"]
+
+[dependencies]
+include_dir = "0.7"
+jni = { version = "0.21", default-features = false }
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls", "socks"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+serde_with = "=3.14.0"
+tauri = { version = "2", features = [] }
+tokio = { version = "1", features = ["macros", "net", "rt-multi-thread", "time"] }
+url = "2"
+urlencoding = "2"
+
+[target.'cfg(windows)'.dependencies]
+winapi = { version = "0.3", features = ["wininet"] }
+winreg = "0.10"
+
+[features]
+custom-protocol = ["tauri/custom-protocol"]
