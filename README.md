@@ -5,7 +5,7 @@
 ## 📥 Download
 
 ### Latest Windows Version
-**[⬇️ DOWNLOAD OGHAB VPN (EXE)](https://github.com/taktaz208/OGHAB-FREE-VPN/releases/latest/download/OGHAB_VPN.exe)**
+**[⬇️ DOWNLOAD OGHAB VPN (EXE)](https://github.com/taktaz208/OGHAB-FREE-VPN/releases/download/release/OGHAB_VPN.exe)**
 
 ### Latest Android Versions
 Get the OGHAB VPN app for your Android device. Choose the version that matches your device's architecture.
@@ -28,7 +28,7 @@ Get the OGHAB VPN app for your Android device. Choose the version that matches y
 ## 📥 دانلود
 
 ### آخرین نسخه ویندوز
-**[⬇️ دانلود عقاب وی‌پی‌ان (EXE)](https://github.com/taktaz208/OGHAB-FREE-VPN/releases/latest/download/OGHAB_VPN.exe)**
+**[⬇️ دانلود عقاب وی‌پی‌ان (EXE)](https://github.com/taktaz208/OGHAB-FREE-VPN/releases/download/release/OGHAB_VPN.exe)**
 
 ### آخرین نسخه‌های اندروید
 اپلیکیشن عقاب وی‌پی‌ان را برای دستگاه اندروید خود دانلود کنید. نسخه مناسب با معماری دستگاه خود را انتخاب کنید.
